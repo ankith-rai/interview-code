@@ -7,6 +7,7 @@ Small, self-contained practice snippets and interview exercises. There is **no**
 | Folder | Notes |
 |--------|--------|
 | `url-shortener` | FastAPI in-memory URL shortener — see [url-shortener/README.md](url-shortener/README.md). |
+| `twitter-lld` | Python in-memory Twitter low-level design exercise. |
 | `api-requests` | HTTP client examples (`requests`). |
 | `merck` | AWS-style scripting (`boto3`). |
 | `zepto` | Small Flask app. |
