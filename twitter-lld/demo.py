@@ -2,8 +2,8 @@ from __future__ import annotations
 
 from typing import Callable, List
 
-from twitter_lld.models import Tweet, User
-from twitter_lld.service import TwitterService
+from models import Tweet, User
+from service import TwitterService
 
 
 def print_timeline(

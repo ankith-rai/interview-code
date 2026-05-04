@@ -3,7 +3,7 @@ from __future__ import annotations
 from itertools import count
 from typing import Dict, List, Set
 
-from twitter_lld.models import Tweet, User
+from models import Tweet, User
 
 
 class TwitterService:
