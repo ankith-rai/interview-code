@@ -5,12 +5,11 @@ Small in-memory Low Level Design implementation for a Twitter-like system.
 ## Layout
 
 ```text
-twitter-lld/
-  twitter_lld/          # package
-    __init__.py         # public exports
-    models.py           # User, Tweet
-    service.py          # TwitterService
-    demo.py             # CLI walkthrough
+twitter-lld/     
+  __init__.py         # public exports
+  models.py           # User, Tweet
+  service.py          # TwitterService
+  demo.py             # CLI walkthrough
 ```
 
 ## Features
@@ -25,8 +24,7 @@ twitter-lld/
 ## Run demo
 
 ```bash
-cd twitter-lld
-python3 -m twitter_lld.demo
+python3 -m demo
 ```
 
 ## Notes for Interviews
